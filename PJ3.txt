@@ -1,0 +1,18 @@
+Basic 8 points
+[X] Walls: Correctly modeled in the maze (1 point).
+[X] Player: model a player (maybe a capsule with a helmet) (1 point).
+[X] Model a compass (1 point)
+[X] Treasure Chest: correctly modelled and can be opened 1 point)).
+[X] Monsters: correctly modelled (1 point).
+
+[X] Walls: apply texture (1 point)).
+[X] Treasure apply texture (1 point).
+[X] Monsters: apply texture (1 point).
+
+Advance 4 points
+Can change camera to see from overall or from the player (1 point)).
+[X] Player can move (1 point).
+[X] Monsters automatically move and have articulations and works correctly (1 points).
+[X] Compass: Clearly displays direction, always look at the treasure chest (1 point).
+
+total is 11 points
